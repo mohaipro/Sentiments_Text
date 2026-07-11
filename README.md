@@ -1,5 +1,9 @@
 # Sentiment Analysis Research Project
 
+![Image](https://editor.analyticsvidhya.com/uploads/30783expressanlytics.jpg)
+
+## **Intended for Conference and Jounral Publications!**
+
 ## Overview
 This project explores sentiment analysis using machine learning and natural language processing techniques. The goal is to classify text data (such as reviews or tweets) as positive, negative, or neutral.
 
